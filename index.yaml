@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  atlas:
+  - apiVersion: v2
+    appVersion: production
+    created: "2023-12-01T15:13:24.860319+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 3381e96196f220a2cf204d2f3eb53251be87c925978bbcad28bac18069e4ee46
+    name: atlas
+    type: application
+    urls:
+    - https://github.com/blackjokie/atlas/atlas-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-01T15:13:24.859373+07:00"
