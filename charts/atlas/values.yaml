@@ -112,8 +112,8 @@ imagePullSecrets:
 
 image:
   pullPolicy: "IfNotPresent"
-  repository: "asia.gcr.io/privysign/infrastructure/research/atlas" # {"$imagepolicy": "flux-system:atlas:name"}
-  tag: "1.0.4" # {"$imagepolicy": "flux-system:atlas:tag"}
+  # repository: "asia.gcr.io/privysign/infrastructure/research/atlas" # {"$imagepolicy": "flux-system:atlas:name"}
+  # tag: "1.0.4" # {"$imagepolicy": "flux-system:atlas:tag"}
 
 ## Use interceptor to build env and run the entrypoint command (Read Dockerfile)
 interceptor:

@@ -3,12 +3,22 @@ entries:
   atlas:
   - apiVersion: v2
     appVersion: production
-    created: "2024-07-07T07:10:15.018178+07:00"
+    created: "2024-07-07T21:46:30.36607+07:00"
     description: A Helm chart for Kubernetes
-    digest: 06dc23e28dece28242cb4559bdb8ea5ee643c3608d6626a73b26f02c12e77cf6
+    digest: 2a7fe280c04955f098609b0c98a7f1fe9456ba6cff77f4fe743d31c0e6a1a5d3
+    name: atlas
+    type: application
+    urls:
+    - https://blackjokie.github.io/atlas/stable/atlas-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: production
+    created: "2024-07-07T21:46:30.365199+07:00"
+    description: A Helm chart for Kubernetes
+    digest: ace55d424f077ebb46bf4290289a7d88cae51836a582433cfa860d9cf62f20d2
     name: atlas
     type: application
     urls:
     - https://blackjokie.github.io/atlas/stable/atlas-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-07T07:10:15.015881+07:00"
+generated: "2024-07-07T21:46:30.363046+07:00"
